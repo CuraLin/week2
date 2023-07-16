@@ -275,6 +275,11 @@ a:hover {
   border-radius: 32px;
 }
 
+.hover:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
 .container {
   width: 1296px;
   margin: 0 auto;

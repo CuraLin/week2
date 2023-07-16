@@ -103,7 +103,9 @@
      padding: 12px 24px;
      border-radius: 32px;
  }
-
+.hover:hover{
+    transform: scale(1.1);
+}
 
 
 
@@ -224,6 +226,7 @@
          a {
              width: 162px;
              height: 162px;
+             
          }
      }
 
@@ -231,11 +234,11 @@
 
  .project--bg {
      padding: 160px 0;
-    
+
 
      .h2 {
          margin-left: 550px;
-        margin-bottom: 16px;
+         margin-bottom: 16px;
      }
  }
 
@@ -255,6 +258,7 @@
              .button__img {
                  width: 24px;
                  height: 24px;
+                 
              }
          }
      }
